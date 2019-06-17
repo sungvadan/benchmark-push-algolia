@@ -1,0 +1,14 @@
+{
+    "name": "vtp/push-algolia",
+    "authors": [
+        {
+            "name": "Van Truong PHAN",
+            "email": "svd.phan@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^4.3",
+        "algolia/algoliasearch-client-php": "^2.2",
+        "symfony/dotenv": "^4.3"
+    }
+}
